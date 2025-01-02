@@ -1,1 +1,1 @@
-print("nikitacat")
+print("nikitacats")
